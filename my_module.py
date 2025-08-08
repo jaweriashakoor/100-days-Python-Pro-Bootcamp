@@ -1,0 +1,1 @@
+my_favrt_number=25
